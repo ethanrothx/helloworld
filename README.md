@@ -4,10 +4,6 @@ This repo is for remembering the github flow
 * formatting
 # open your mind's eye
 ''
-    \_______
-   \/      /,
-  \/      //
-\/______//
-\(______(/
+
             Ethan
 ''
